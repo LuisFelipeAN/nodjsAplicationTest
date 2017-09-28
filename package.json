@@ -1,30 +1,25 @@
 {
   "name": "teste",
   "version": "0.0.1",
-  "description": "agora vai",
-  "engines": {
-    "node": "6.11.1"
-  },
+  "description": "nao tem",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "test": "node test.js"
-  },
-  "dependencies": {
-    
-  },
-  "devDependencies": {
-    "request": "^2.81.0",
-    "tape": "^4.7.0"
+    "test": "node index.js",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LuisFelipeAN/nodjsAplicationTest"
+    "url": "git+https://github.com/LuisFelipeAN/nodjsAplicationTest.git"
   },
   "keywords": [
-    "node",
-    "heroku",
-    "express"
+    "testado",
+    "de",
+    "novo"
   ],
-  "license": "MIT"
+  "author": "luis felipe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisFelipeAN/nodjsAplicationTest/issues"
+  },
+  "homepage": "https://github.com/LuisFelipeAN/nodjsAplicationTest#readme"
 }
